@@ -1,0 +1,13 @@
+{
+  "name": "NaviagtionMenu",
+  "version": "0.1.0",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "~1.10.1",
+    "cookie-session": "~1.1.0",
+    "ejs": "^2.1.4",
+    "express": "^4.11.2"
+  },
+  "author": "Anand Rajput",
+  "description": "Naviagation menu and template through bootstrap"
+}
