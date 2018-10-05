@@ -8,7 +8,7 @@ Add sample data into JSON and return all data.
     {
         "Id": 5,
         "Title": "Mean stack developer",
-        "Description": "3+ years of experience in NODE JS development",
+        "Description": "3+ years of experience in NODE JS, Express JS & MongoDB development",
         "Experiance": "3+ Years",
         "Location": "India"
     }
